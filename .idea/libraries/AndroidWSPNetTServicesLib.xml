@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidWSPNetTServicesLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GmcAPIShowcase/libs/AndroidWSPNetTServicesLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

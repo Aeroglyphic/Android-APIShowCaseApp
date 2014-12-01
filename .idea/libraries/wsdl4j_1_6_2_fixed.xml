@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wsdl4j-1.6.2-fixed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidWSClientLib/libs/wsdl4j-1.6.2-fixed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

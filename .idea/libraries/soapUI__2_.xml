@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="soapUI (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GmcAPIShowcase/libs/soapUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

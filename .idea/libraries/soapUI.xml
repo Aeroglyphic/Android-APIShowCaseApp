@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="soapUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidWSClientLib/libs/soapUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

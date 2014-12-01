@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidWSConnectApp</string>
+    <string name="url">http://api.gmc.net/mobileapi/PNetTServices.asmx?WSDL</string>
+    <string name="user">demo</string>
+    <string name="password">pass</string>
+
+</resources>

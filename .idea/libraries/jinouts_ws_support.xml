@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jinouts-ws-support">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidWSClientLib/libs/jinouts-ws-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

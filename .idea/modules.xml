@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-APIShowcaseApp.iml" filepath="$PROJECT_DIR$/Android-APIShowcaseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GmcAPIShowcase/GmcAPIShowcase.iml" filepath="$PROJECT_DIR$/GmcAPIShowcase/GmcAPIShowcase.iml" />
+    </modules>
+  </component>
+</project>
+
