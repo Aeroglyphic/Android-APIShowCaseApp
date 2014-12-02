@@ -99,6 +99,7 @@ public class MainActivity extends Activity {
 
             if (result.getErrorCollection() != null) {
                 ShowErrorLog(result.getLog());
+                return;
             }
 
             if (engine.equals("Image")) {

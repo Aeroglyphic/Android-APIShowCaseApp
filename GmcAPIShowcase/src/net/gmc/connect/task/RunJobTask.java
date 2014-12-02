@@ -35,6 +35,7 @@ public class RunJobTask extends pnettwebserviceTask<ComRunWorkFlowRes> {
             corrId = DYNAMIC_WFD;
          else
             corrId = SIMPLE_WFD;
+
         ComSource comSource = new ComSource();
         comSource.setCorrelationId(corrId);
         workFlowDefinition.setSource(comSource);
